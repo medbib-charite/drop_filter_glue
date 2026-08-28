@@ -33,10 +33,10 @@ Hier müssen die Spaltennamen aus der Inputdatei verwendet werden!
 - Mapping: Spaltennamen im Output in der entsprechenden Reihenfolge und jeweils die zu verwendende Spalte aus dem Input. Soll für eine Output-Spalte kein Input übernommen werden, wird der Output-Spalte ein leerer String zugewiesen.
 - Standardwerte, z.B. Förderjahr immer 2021
 
-#Lizenz
+## Lizenz
 Das Projekt ist unter der MIT-Lizenz lizenziert. Details siehe LICENSE-Datei.
 
-# Autorinnen
+## Autorinnen
 Elena Gandert, 2023-2025 (Code und Mappings)
 Anja Siebert, 2023-2025 (Mappings)
 
